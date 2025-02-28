@@ -45,7 +45,7 @@ Git & GitHub
 🔗 Useful Links
 
 GitHub Repository: https://github.com/RNRojalin/Chatbot-project.git
-Author: Rojalin Nayak
+                          Author: Rojalin Nayak
 
 📜 License
 
