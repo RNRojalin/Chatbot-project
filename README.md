@@ -38,13 +38,16 @@ User: Thanks
 Chatbot: Goodbye! Have a great day!
 
 ⚙️ Technologies Used
+
 Python
 Git & GitHub
 
 🔗 Useful Links
+
 GitHub Repository: https://github.com/RNRojalin/Chatbot-project.git
 Author: Rojalin Nayak
 
 📜 License
+
 This project is open-source and free to use under the MIT License.
 
